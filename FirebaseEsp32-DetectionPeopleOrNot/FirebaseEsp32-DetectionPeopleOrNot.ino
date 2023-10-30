@@ -88,4 +88,10 @@ void loop() {
     Firebase.pushString(String("/") + String(ciclo) + String("/registro"), fireCarga);
     Firebase.setInt("/sinc/pessoas", contador);
   }
+  else 
+    {
+      String fireCarga = String(contador) + String(";   ") + String(bateria) + String("%; ") + String(ano) + String("/") + String(mes) + String("/") + String(dia) + String("-") + String(hora) + String(":") + String(minuto) + String(":") + String(segundo);
+      Firebase.pushString(String("/") + String(ciclo) + String("/registro"), fireCarga);
+      Firebase.setInt("/sinc/pessoas", contador);
+    }
 }
