@@ -23,14 +23,17 @@ O objetivo geral deste trabalho é avaliar a viabilidade da tecnologia \textit{T
 
 
 ### Código deste repositório
-| Projetos                      | Período               |
-|-------------------------------|-----------------------|
-| Revisão Bibliográfica         | Março - Maio          |
-| Desenvolvimento de Algoritmos | Junho - Agosto        |
-| Implementação e Testes        | Setembro - Novembro   |
-| Análise de Resultados         | Dezembro - Janeiro    |
-| Redação da Dissertação        | Fevereiro - Abril     |
-| Defesa da Dissertação         | Maio                  |
+| Projetos                            | 
+|-------------------------------------|
+| FirebaseEsp32-DetectionPeople       | 
+| FirebaseEsp32-DetectionPeopleOrNot  |
+| IA-ArduinoIDE-Esp32Cam-TinyML       | 
+| dados-bateria                       | 
+
+FirebaseEsp32-DetectionPeople: Envio de dados Firebase detecção de pessoas
+FirebaseEsp32-DetectionPeopleOrNot: Envio de dados Firebase detecção ou não de pessoas
+IA-ArduinoIDE-Esp32Cam-TinyML: Aplicação TinyML
+dados-json-bateria: dados, gráficos, programação do estudo proposto
 
 ### Referências
 Incluidá uma lista de referências bibliográficas relevantes ao tema da pesquisa no arquivo da dissertação.
