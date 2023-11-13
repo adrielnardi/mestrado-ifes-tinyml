@@ -5,7 +5,9 @@ DE VISÃO COMPUTACIONAL NO CENÁRIO IOT
 
 ### Instituição
 Instituto Federal do Espírito Santo (IFES)  
+
 Programa de Pós-Graduação em Computação Aplicada
+
 Campus Serra
 
 ### Autor
@@ -13,6 +15,7 @@ Adriel Monti De Nardi
 
 ### Orientador
 Prof. Dr. Maxwell Eduardo Monteiro
+
 Professor da Linha de Pesquisa de Redes de Computadores:
 
 ### Resumo
@@ -31,8 +34,11 @@ O objetivo geral deste trabalho é avaliar a viabilidade da tecnologia \textit{T
 | dados-bateria                       | 
 
 FirebaseEsp32-DetectionPeople: Envio de dados Firebase detecção de pessoas
+
 FirebaseEsp32-DetectionPeopleOrNot: Envio de dados Firebase detecção ou não de pessoas
+
 IA-ArduinoIDE-Esp32Cam-TinyML: Aplicação TinyML
+
 dados-json-bateria: dados, gráficos, programação do estudo proposto
 
 ### Referências
